@@ -67,6 +67,6 @@ CSS layouts is the area that I wanna improve on.
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/@Gee_Chagane)
+- Twitter - [@Gee_Chagane](https://www.twitter.com/@Gee_Chagane)
 
 
